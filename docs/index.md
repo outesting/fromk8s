@@ -1,6 +1,6 @@
 # fromk8s
 
-From k8s with joy
+From k8s with love
 
 ## Getting started
 
