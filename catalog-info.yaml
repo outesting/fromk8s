@@ -1,5 +1,5 @@
 apiVersion: backstage.io/v1alpha1
-kind: Component
+kind: TeamAComponent
 metadata:
   name: "fromk8s"
   description: "From k8s with joy"
